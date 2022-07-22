@@ -1,2 +1,10 @@
-<xml>
-	<Skills>"Decomposition, drafting test cases and checklists, localization and bug reporting, using test design techniques, simple SQL queries, API testing, terminal, GIT"</Skills>
+<skills>
+	<skill_1>Decomposition</skill_1>
+	<skill_2>Drafting test cases and checklists</skill_2>
+	<skill_3>Localization and bug reporting</skill_3>
+	<skill_4>Using test design techniques</skill_4>
+	<skill_5>Simple SQL queries</skill_5>
+	<skill_6>API testing</skill_6>
+	<skill_7>Terminal</skill_7>
+	<skill_8>GIT</skill_8>
+</skills>

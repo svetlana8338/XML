@@ -1,6 +1,7 @@
-<xml>
-	<Full_name>"Pospelova S.N."</Full_name>
-	<age>"39"</age>
-	<number_of_pets>"3"</number_of_pets>
-	<future_desired_salary>"150000"</future_desired_salary>
+<about_me>
+	<full_name>Pospelova S.N.</full_name>
+	<age>39</age>
+	<number_of_pets>3</number_of_pets>
+	<future_desired_salary>150000</future_desired_salary>
+</about_me>
 
