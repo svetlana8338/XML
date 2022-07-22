@@ -8,7 +8,7 @@
 		<step_1>1. Page Personal account https://foodplan.ru/personal/profile/</step_1>
 		<step_2>2. User is authorized</step_2>
 		<step_3>3. Click on the button "+" in the window Photo</step_3>
-		<step_4></4. Upload file "Photos Library.photoslibrary" from folder /Users/svetlanapospelova/Pictures</step_4>
+		<step_4>4. Upload file "Photos Library.photoslibrary" from folder /Users/svetlanapospelova/Pictures</step_4>
 	</Steps_to_reduce>
  	<Expected_result>Notification 'Invalid file type or maximum file size exceeded'</Expected_result>
 	<Actual_result>Error page opens 'Internal Server Error'</Actual_result>
