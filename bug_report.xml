@@ -4,7 +4,12 @@
 	<Priority>P3</Priority>
 	<Issue_title>When adding a Photos Library.photoslibrary file to a photo, an error 500 occurs</Issue_title>
 	<Issue_description>When trying to pull the Photos Library.photoslibrary file into the photo, an error 500 (Internal Server Error) occurs</Issue_description>
-	<Steps_to_reduce>1. Page Personal account https://foodplan.ru/personal/profile/ 2. User is authorized 3. Click on the button "+" in the window Photo 4. Upload file "Photos Library.photoslibrary" from folder /Users/svetlanapospelova/Pictures</Steps_to_reduce>
+	<Steps_to_reduce>
+		<step_1>1. Page Personal account https://foodplan.ru/personal/profile/</step_1>
+		<step_2>2. User is authorized</step_2>
+		<step_3>3. Click on the button "+" in the window Photo</step_3>
+		<step_4></4. Upload file "Photos Library.photoslibrary" from folder /Users/svetlanapospelova/Pictures</step_4>
+	</Steps_to_reduce>
  	<Expected_result>Notification 'Invalid file type or maximum file size exceeded'</Expected_result>
 	<Actual_result>Error page opens 'Internal Server Error'</Actual_result>
 </bug_report>
